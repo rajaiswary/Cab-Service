@@ -1,0 +1,29 @@
+body,html{
+    height : 100%;
+    margin : 0px 0 0 auto;
+    padding:0px;
+}
+.paycont{
+    background-image: url("pay.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+fieldset{
+    color:white;
+    margin:20px;
+    padding:50px;
+}
+a{
+    color:yellow;
+    margin:20px;
+    padding:50px;
+
+}
+label{
+    margin :auto;
+}
+input[type="radio"]{
+    margin:20px;
+}
